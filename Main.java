@@ -1,4 +1,3 @@
-import java.util.Scanner;
 
 public class Main {
 
@@ -6,5 +5,6 @@ public class Main {
     public static void saludar() {
         System.out.println("Hola, bienvenido al programa.");
     }
+}
 
     
